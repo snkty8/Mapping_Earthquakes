@@ -19,7 +19,7 @@ https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson
 To view the different maps, one can toggle the options in the top right corner.
 
 ![image](https://github.com/snkty8/Mapping_Earthquakes/blob/main/Earthquake_Challenge/images/dark.png)
-This third map is the same as the one before, but with a dark overlay. It adds another appealing way to view the map.  Again, one just needs to toggle through the different options in the top right corner. 
+This third map is the same as the one before, but with a dark overlay. It adds another appealing way to view the map.  Again, one just needs to toggle through the different options in the top right corner.
 
 
 
