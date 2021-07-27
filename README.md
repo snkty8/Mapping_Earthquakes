@@ -1,6 +1,6 @@
 # Mapping_Earthquakes
 
-To view the interactive map visit:[Challenge Demo](https://snkty8.github.io/Earthquake_Challenge/)
+To view the interactive map visit: [Challenge Demo](https://snkty8.github.io/Earthquake_Challenge/)
 
 # Overview
 This project was created to show earthquake data, tectonic plates loction on the earth, earthquakes with a magnitude greater than 4.5.
